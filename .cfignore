@@ -1,0 +1,3 @@
+*.pyc
+.cfignore
+.git/
